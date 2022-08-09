@@ -1,5 +1,5 @@
 {
-    "name": "whitecube/nova-flexible-content",
+    "name": "cposta/nova-flexible-content",
     "description": "Flexible Content & Repeater Fields for Laravel Nova.",
     "license": "MIT",
     "keywords": [
@@ -13,8 +13,8 @@
     ],
     "authors": [
         {
-            "name": "Toon Van den Bos",
-            "email": "toon@whitecube.be"
+            "name": "Cposta",
+            "email": "cposta@gmail.com"
         }
     ],
     "require": {
